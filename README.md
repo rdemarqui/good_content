@@ -4,6 +4,11 @@ Good free content found on internet
 * :pencil: Free Courses
 * :globe_with_meridians: Free Web Content
 
+## Career
+| Source | About |
+| ------ | ----- |
+| https://github.com/AMAI-GmbH/AI-Expert-Roadmap | Roadmap to becoming an Artificial Intelligence Expert |
+
 ## Programmimg
 | Source | About |
 | ------ | ----- |
@@ -13,9 +18,13 @@ Good free content found on internet
 | Source | About |
 | ------ | ----- |
 | https://www.statlearning.com/ | :blue_book: An Introduction to Statistical Learning |
-| http://neuralnetworksanddeeplearning.com/ | :blue_book: Neural Networks and Deep Learning, by By Michael Nielsen |
-| https://www.deeplearningbook.org/ | :blue_book: Deep Learning, by Goodfellow, et al |
+| http://neuralnetworksanddeeplearning.com/ | :blue_book: Neural Networks and Deep Learning, by Michael Nielsen |
+| https://www.deeplearningbook.org/ | :blue_book: Deep Learning, by Goodfellow et al. |
 | https://www.tensorflow.org/resources/learn-ml | :globe_with_meridians: Curated a list of resources and courses by TensorFlow |
+| https://cs.cornell.edu/jeh/book.pdf | :blue_book: Foundations of Data Science, by Avrim Blum et al. |
+| https://mlcompendium.gitbook.io/ | :globe_with_meridians: Machine Learning Compendium |
+| https://probml.github.io/pml-book/ | :blue_book: Probabilistic Machine Learning. A book series by Kevin Murphy |
+| https://datascienceatthecommandline.com/ | :blue_book: Data Science at the Command Line, by Jeroen Janssens |
 
 ## Data Visualization
 | Source | About |
