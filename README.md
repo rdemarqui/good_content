@@ -1,4 +1,4 @@
-# Good Ccontent
+# Good Content
 Good content found on internet
 
 ## Data Visualization
