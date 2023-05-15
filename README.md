@@ -25,6 +25,7 @@ Good free content found on internet
 | https://mlcompendium.gitbook.io/ | :globe_with_meridians: Machine Learning Compendium |
 | https://probml.github.io/pml-book/ | :blue_book: Probabilistic Machine Learning. A book series by Kevin Murphy |
 | https://datascienceatthecommandline.com/ | :blue_book: Data Science at the Command Line, by Jeroen Janssens |
+| https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/ | :pencil: Reinforcement Learning Course, by Pau Labarta Bajo |
 
 ## Data Visualization
 | Source | About |
